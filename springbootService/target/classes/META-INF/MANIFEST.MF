@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: springbootService
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: flyfo
+Implementation-Vendor-Id: com.sun
+Build-Jdk: 1.8.0_131
+Implementation-URL: http://projects.spring.io/spring-boot/springbootSe
+ rvice/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
