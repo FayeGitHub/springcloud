@@ -15,11 +15,11 @@ import org.springframework.web.client.RestTemplate;
 @ServletComponentScan
 @EnableDiscoveryClient
 @EnableHystrix
-public class ConsumerClientApplication {
+public class ConsumerRibbonClientApplication {
  
     public static void main(String[] args) {
  
-        SpringApplication.run(ConsumerClientApplication.class, args);
+        SpringApplication.run(ConsumerRibbonClientApplication.class, args);
     }
  
     @Bean
