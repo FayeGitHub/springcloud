@@ -5,7 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
- 
+/**
+ * 
+ * @author Faye
+ *
+ */
 @SpringBootApplication
 @ServletComponentScan
 @EnableDiscoveryClient
